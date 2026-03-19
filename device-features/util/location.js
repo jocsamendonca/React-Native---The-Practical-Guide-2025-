@@ -1,4 +1,4 @@
-const GOOGLE_API_KEY = "AIzaSyAKZcEFxx9xyuup02kwsksXlXw9yJ7CmhM";
+const GOOGLE_API_KEY = "AIzaSyAKZcEFxx9xyuup02kwsksXlXw9yJ7CmhM"; //API_KEY = Excluída.
 
 // Desabilitar a assinatura da URL na página de credenciais
 // const signature = "JSFOQAKCR8518VLYZFJlGCjn5pQ=";
